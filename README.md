@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Full Stack Developer in training** with a creative mindset, strong visual intuition, and a hybrid background that blends design, technology, and the ocean. I'm currently enrolled in a full stack web development bootcamp, sharpening my technical skills and preparing for my next professional challenge.
+I'm a **Full Stack Developer** with a creative mindset, strong visual intuition, and a hybrid background that blends design, technology, and the ocean. I'm currently enrolled in a full stack web development bootcamp, sharpening my technical skills and preparing for my next professional challenge.
 
 ## What I'm Working On
 
